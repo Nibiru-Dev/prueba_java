@@ -20,7 +20,7 @@ public class ListController {
     }
 
     @GetMapping(value = "listar", headers = "Accept=application/json")
-    public List<User> listarAutos(){
+    public List<User> listarUsers(){
         return externalService.getExternalData();
     }
 
