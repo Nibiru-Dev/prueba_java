@@ -2,9 +2,11 @@
 Prueba técnica en spring boot.
 
 Se realizaron los 2 objetivos de la prueba técnica en un mismo proyecto con las siguientes características:
-Construcción y carga de dependencias: Maven
-Java versión 17
-Spring boot versión 3.3.4
+Construcción y carga de dependencias: Maven.
+
+Java versión 17.
+
+Spring boot versión 3.3.4.
 
  
 Para realizar la prueba del proyecto, se requiere clonar el repositorio, correr el proyecto y realizar las peticiones http:
